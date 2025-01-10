@@ -4,12 +4,12 @@
   }
   
   ::-webkit-scrollbar-thumb {
-    background-color: silver;
+    background-color: rgb(26, 38, 207);
     border-radius: 3px;
   }
   
   ::-webkit-scrollbar-thumb:hover {
-    background-color: black;
+    background-color: rgb(37, 121, 199);
   }
   
   .pie-pagina {
@@ -34,5 +34,4 @@
     color: gainsboro;
     padding: 2rem;
     font-size: 18px;
-    font-family: ;
   }
