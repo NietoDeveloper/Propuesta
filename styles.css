@@ -37,3 +37,23 @@
 .costos h3 {
     font-size: 20px;
 }
+
+.propuesta {
+    margin-left: 25px;
+    margin-right: 20px;
+}
+.propuesta h1 {
+    font-size: 35px;
+    text-align: center;
+    color: rgb(37, 121, 199);
+}
+.propuesta h3 {
+    font-size: 20px;
+}
+.propuesta h2 {
+    font-size: 24px;
+}
+.propuesta p {
+    font-size: 18px;
+    text-align: center;
+}
