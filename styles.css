@@ -57,3 +57,20 @@
     font-size: 18px;
     text-align: center;
 }
+
+.option {
+    margin-left: 35px;
+    margin-right: 20px
+}
+.option h2 {
+    font-size: 30px;
+    color: rgb(37, 121, 199);
+    text-align: center;
+}
+.option h3 {
+    font-size: 25px;
+}
+.option p {
+    font-size: 18px;
+    text-align: center;
+}
