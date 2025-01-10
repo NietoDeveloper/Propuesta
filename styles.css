@@ -1,0 +1,20 @@
+:root {
+    --gold: gold;
+    --scarlet: rgb(112, 4, 4);
+    --gainsboro: gainsboro;
+    --blue: blue;
+    --oscuro: #000;
+    --titulos: "Arima Madurai", cursive;
+    --parrafos: "Mulish", sans-serif;
+  }
+  
+  body {
+    margin: 0;
+
+  }
+  
+  html {
+    box-sizing: border-box;
+    margin: none;
+    padding: 0;
+  }
