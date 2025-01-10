@@ -1,16 +1,12 @@
 :root {
-    --gold: gold;
-    --scarlet: rgb(112, 4, 4);
-    --gainsboro: gainsboro;
-    --blue: blue;
-    --oscuro: #000;
     --titulos: "Arima Madurai", cursive;
     --parrafos: "Mulish", sans-serif;
   }
   
   body {
     margin: 0;
-
+    line-height: 1.5;
+    background-color: gainsboro;
   }
   
   html {
@@ -18,3 +14,14 @@
     margin: none;
     padding: 0;
   }
+
+.tittle {
+    text-align: center;
+    background-color: rgb(37, 121, 199);
+}
+.tittle h1 {
+    color: gainsboro;
+    font-size: 40px;
+    padding: 40px 10px;
+    margin-top: 20px;
+}
