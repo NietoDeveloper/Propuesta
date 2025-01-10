@@ -60,7 +60,7 @@
 
 .option {
     margin-left: 35px;
-    margin-right: 20px
+    margin-right: 20px;
 }
 .option h2 {
     font-size: 30px;
@@ -73,4 +73,12 @@
 .option p {
     font-size: 18px;
     text-align: center;
+}
+
+.futuro {
+    margin-left: 35px;
+    margin-right: 20px;
+}
+.futuro h3 {
+    font-size: 24px;
 }
